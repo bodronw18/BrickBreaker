@@ -556,6 +556,30 @@ AddOutputFilter chunkFilter
 			<Item Name="CTRE_Phoenix_MotorControl_SetSensorPhase.vi" Type="VI" URL="../../../../../../../Public/Documents/Cross The Road Electronics/Phoenix-LabVIEW/Motor Controller/Sensor/CTRE_Phoenix_MotorControl_SetSensorPhase.vi"/>
 			<Item Name="CTRE_Phoenix_MotorControl_ConfigClosedLoopConstants.vi" Type="VI" URL="../../../../../../../Public/Documents/Cross The Road Electronics/Phoenix-LabVIEW/Motor Controller/Closed Loop/CTRE_Phoenix_MotorControl_ConfigClosedLoopConstants.vi"/>
 			<Item Name="CTRE_Phoenix_MotorControl_ConfigMotionMagic.vi" Type="VI" URL="../../../../../../../Public/Documents/Cross The Road Electronics/Phoenix-LabVIEW/Motor Controller/Closed Loop/CTRE_Phoenix_MotorControl_ConfigMotionMagic.vi"/>
+			<Item Name="CTRE_PigeonIMU_ConnectionType.ctl" Type="VI" URL="../../../../../../../Public/Documents/Cross The Road Electronics/Phoenix-LabVIEW/Pigeon IMU/CTRE_PigeonIMU_ConnectionType.ctl"/>
+			<Item Name="CTRE_PigeonIMU_DeviceRef.ctl" Type="VI" URL="../../../../../../../Public/Documents/Cross The Road Electronics/Phoenix-LabVIEW/Pigeon IMU/CTRE_PigeonIMU_DeviceRef.ctl"/>
+			<Item Name="CTRE_PigeonIMU_Open_CAN.vi" Type="VI" URL="../../../../../../../Public/Documents/Cross The Road Electronics/Phoenix-LabVIEW/Pigeon IMU/CTRE_PigeonIMU_Open_CAN.vi"/>
+			<Item Name="CTRE_PigeonIMU_Open_TalonSRX.vi" Type="VI" URL="../../../../../../../Public/Documents/Cross The Road Electronics/Phoenix-LabVIEW/Pigeon IMU/CTRE_PigeonIMU_Open_TalonSRX.vi"/>
+			<Item Name="CTRE_PigeonIMU_Open.vi" Type="VI" URL="../../../../../../../Public/Documents/Cross The Road Electronics/Phoenix-LabVIEW/Pigeon IMU/CTRE_PigeonIMU_Open.vi"/>
+			<Item Name="CTRE_PigeonIMU_RefNumRegistrySet.vi" Type="VI" URL="../../../../../../../Public/Documents/Cross The Road Electronics/Phoenix-LabVIEW/Pigeon IMU/CTRE_PigeonIMU_RefNumRegistrySet.vi"/>
+			<Item Name="CTRE_PigeonIMU_RefNumRegistryGet.vi" Type="VI" URL="../../../../../../../Public/Documents/Cross The Road Electronics/Phoenix-LabVIEW/Pigeon IMU/CTRE_PigeonIMU_RefNumRegistryGet.vi"/>
+			<Item Name="CTRE_PigeonIMU_PigeonState.ctl" Type="VI" URL="../../../../../../../Public/Documents/Cross The Road Electronics/Phoenix-LabVIEW/Pigeon IMU/CTRE_PigeonIMU_PigeonState.ctl"/>
+			<Item Name="CTRE_PigeonIMU_CalibrationMode.ctl" Type="VI" URL="../../../../../../../Public/Documents/Cross The Road Electronics/Phoenix-LabVIEW/Pigeon IMU/CTRE_PigeonIMU_CalibrationMode.ctl"/>
+			<Item Name="CTRE_PigeonIMU_GetTempStateUpTime.vi" Type="VI" URL="../../../../../../../Public/Documents/Cross The Road Electronics/Phoenix-LabVIEW/Pigeon IMU/CTRE_PigeonIMU_GetTempStateUpTime.vi"/>
+			<Item Name="CTRE_PigeonIMU_GetStartupStatus.vi" Type="VI" URL="../../../../../../../Public/Documents/Cross The Road Electronics/Phoenix-LabVIEW/Pigeon IMU/CTRE_PigeonIMU_GetStartupStatus.vi"/>
+			<Item Name="CTRE_PigeonIMU_GetRawMagnetometer.vi" Type="VI" URL="../../../../../../../Public/Documents/Cross The Road Electronics/Phoenix-LabVIEW/Pigeon IMU/CTRE_PigeonIMU_GetRawMagnetometer.vi"/>
+			<Item Name="CTRE_PigeonIMU_GetRawGyro.vi" Type="VI" URL="../../../../../../../Public/Documents/Cross The Road Electronics/Phoenix-LabVIEW/Pigeon IMU/CTRE_PigeonIMU_GetRawGyro.vi"/>
+			<Item Name="CTRE_PigeonIMU_GetCompass.vi" Type="VI" URL="../../../../../../../Public/Documents/Cross The Road Electronics/Phoenix-LabVIEW/Pigeon IMU/CTRE_PigeonIMU_GetCompass.vi"/>
+			<Item Name="CTRE_PigeonIMU_GetBiasedMagnetometer.vi" Type="VI" URL="../../../../../../../Public/Documents/Cross The Road Electronics/Phoenix-LabVIEW/Pigeon IMU/CTRE_PigeonIMU_GetBiasedMagnetometer.vi"/>
+			<Item Name="CTRE_PigeonIMU_GetBiasedAccelerometer.vi" Type="VI" URL="../../../../../../../Public/Documents/Cross The Road Electronics/Phoenix-LabVIEW/Pigeon IMU/CTRE_PigeonIMU_GetBiasedAccelerometer.vi"/>
+			<Item Name="CTRE_PigeonIMU_GetAccumGyro.vi" Type="VI" URL="../../../../../../../Public/Documents/Cross The Road Electronics/Phoenix-LabVIEW/Pigeon IMU/CTRE_PigeonIMU_GetAccumGyro.vi"/>
+			<Item Name="CTRE_PigeonIMU_GetAccelerometerAngles.vi" Type="VI" URL="../../../../../../../Public/Documents/Cross The Road Electronics/Phoenix-LabVIEW/Pigeon IMU/CTRE_PigeonIMU_GetAccelerometerAngles.vi"/>
+			<Item Name="CTRE_PigeonIMU_Get6DQuaternion.vi" Type="VI" URL="../../../../../../../Public/Documents/Cross The Road Electronics/Phoenix-LabVIEW/Pigeon IMU/CTRE_PigeonIMU_Get6DQuaternion.vi"/>
+			<Item Name="CTRE_PigeonIMU_GetFusedHeading.vi" Type="VI" URL="../../../../../../../Public/Documents/Cross The Road Electronics/Phoenix-LabVIEW/Pigeon IMU/CTRE_PigeonIMU_GetFusedHeading.vi"/>
+			<Item Name="CTRE_PigeonIMU_GetYPR.vi" Type="VI" URL="../../../../../../../Public/Documents/Cross The Road Electronics/Phoenix-LabVIEW/Pigeon IMU/CTRE_PigeonIMU_GetYPR.vi"/>
+			<Item Name="CTRE_PigeonIMU_GetData.vi" Type="VI" URL="../../../../../../../Public/Documents/Cross The Road Electronics/Phoenix-LabVIEW/Pigeon IMU/CTRE_PigeonIMU_GetData.vi"/>
+			<Item Name="CTRE_PigeonIMU_TareType.ctl" Type="VI" URL="../../../../../../../Public/Documents/Cross The Road Electronics/Phoenix-LabVIEW/Pigeon IMU/CTRE_PigeonIMU_TareType.ctl"/>
+			<Item Name="CTRE_PigeonIMU_SetYaw.vi" Type="VI" URL="../../../../../../../Public/Documents/Cross The Road Electronics/Phoenix-LabVIEW/Pigeon IMU/CTRE_PigeonIMU_SetYaw.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="FRC Robot Boot-up Deployment" Type="{69A947D5-514E-4E75-818E-69657C0547D8}">
@@ -569,11 +593,12 @@ AddOutputFilter chunkFilter
 				<Property Name="Bld_buildSpecName" Type="Str">FRC Robot Boot-up Deployment</Property>
 				<Property Name="Bld_excludeLibraryItems" Type="Bool">true</Property>
 				<Property Name="Bld_excludePolymorphicVIs" Type="Bool">true</Property>
-				<Property Name="Bld_localDestDir" Type="Path">/C/Users/KnightVision-04/Documents/SourceTree/2018-Repository/MainBot/BrickBreaker/Builds</Property>
-				<Property Name="Bld_localDestDirType" Type="Str">&lt;none&gt;</Property>
+				<Property Name="Bld_localDestDir" Type="Path">../Builds</Property>
+				<Property Name="Bld_localDestDirType" Type="Str">relativeToProject</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{6782B190-04E1-4A41-93AB-3F357B35791E}</Property>
 				<Property Name="Bld_targetDestDir" Type="Path">/home/lvuser/natinst/bin</Property>
+				<Property Name="Bld_version.build" Type="Int">2</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">startup.rtexe</Property>
 				<Property Name="Destination[0].path" Type="Path">/home/lvuser/natinst/bin/startup.rtexe</Property>
